@@ -17,7 +17,15 @@ body {
 }
 
 #profile-name{
+    text-align: center;}
+
+#header {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: burlywood;
     text-align: center;
+<<<<<<< HEAD
 }
 
 #footer {
@@ -26,5 +34,7 @@ body {
     line-height: 50px;
     background-color: burlywood;
     text-align: center;
+=======
+>>>>>>> development-1.0
     color: white;
 }
